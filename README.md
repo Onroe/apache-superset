@@ -19,10 +19,10 @@ Apache Superset. A Data exploration and visualization tool examples.
 
 ### [1: Embedding_React](01_embedding_to_react)
 
-* Embedding supersets dashboards in your react application .
+* Embedding superset dashboards in your react application .
 
 
 ### [2: Embedding_PHP](02_embedding_to_react)
 
-* Embedding supersets dashboards in your php application .
+* Embedding superset dashboards in your php application .
 
